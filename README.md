@@ -1,4 +1,4 @@
-# azureadb2c-request-additional-info-if-not-azure-entraID
+# Execute progressive profile if the user is not using Azur Entra ID to authenticate
 
 If could be possible that you need to request additional information (progressive profile) to the user if he/she is not using Azure Entra ID identity provider, for example. In this custom policy, three identity providers were configured:
 <br />
